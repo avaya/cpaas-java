@@ -1,0 +1,28 @@
+
+# Created by https://www.gitignore.io/api/java
+
+### Java ###
+*.class
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
+
+target/*
+.idea
+*.iml
+zang.test.properties
+zang-java.zip
+coverage.ec
+/target/
+/bin/
+.classpath
+.project
+.settings
